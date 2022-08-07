@@ -1,4 +1,11 @@
 # Coronary-Heart-Disease-Risk-Prediction
+
+
+# Introduction
+The contribution of ML in the healthcare industry is becoming more and more significant day by day. Looking into the health data of patients, along with demographic and lifestyle data can give us helpful insights into the medical condition of a patient. 
+In this project, I'll be developing an ML Classification model to help predict if a patient is at the risk of developing Coronary Heart Disease, in the next 10 years, given their medical, behavioral and demographic data.
+
+Objective:
 The objective of the project would be to predict whether a patient is under risk of contracting coronory heart disease (CHD) in the next 10 years, given the data about following 14 attributes:
 
 • Sex: male or female("M" or "F")
